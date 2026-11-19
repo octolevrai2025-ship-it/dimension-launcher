@@ -4,7 +4,7 @@
     "title": "Bienvenue sur Craft Dimension V1 !",
     "createdAt": "2026-11-19",
     "author": {
-      "username": "Octo"
+      "username": "Octo_Yt"
     },
     "tags": [
       {
@@ -12,21 +12,5 @@
         "color": "#64b5f6"
       }
     ],
-    "content": "Le serveur **Craft Dimension** (`hyperion.exilone.fr:9003`) est disponible en **1.21.1** avec **NeoForge**. Bon jeu à tous !"
-  },
-  {
-    "id": "2",
-    "title": "Mods et shaders",
-    "createdAt": "2026-11-19",
-    "author": {
-      "username": "Octo"
-    },
-    "tags": [
-      {
-        "name": "update",
-        "color": "#ffb74d"
-      }
-    ],
-    "content": "Les mods du serveur sont gérés automatiquement, et tu peux ajouter tes propres **shaders** dans ton dossier `shaderpacks/`."
+    "content": "Le serveur **Craft Dimension** est disponible en **1.21.1** avec **NeoForge**, Les mods du serveur sont gérés automatiquement, et tu peux ajouter tes propres **shaders** dans ton dossier `shaderpacks/`, Bon jeu à tous !"
   }
-]
