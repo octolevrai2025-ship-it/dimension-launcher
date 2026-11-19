@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Bienvenue sur Craft Dimension V1 !",
+    "date": "2026-11-19",
+    "content": "Le serveur **Craft Dimension** (`hyperion.exilone.fr:9003`) est disponible en **1.21.1** avec **NeoForge**. Bon jeu à tous !"
+  },
+  {
+    "id": "2",
+    "title": "Mods et shaders",
+    "date": "2026-11-19",
+    "content": "Les mods du serveur sont gérés automatiquement, et tu peux ajouter tes propres **shaders** dans ton dossier `shaderpacks/`."
+  }
+]
